@@ -7,3 +7,5 @@ AWS를 공부한 내용을 정리한 Repo입니다.
 * [EC2-LAMP-ELB 구성하기](https://github.com/C0deWave/aws_study/blob/master/공부%20프로젝트/EC2-LAMP-ELB%20구성하기.md)
 
 * [VPC와 중계 서버(Bastion) 구성](https://github.com/C0deWave/aws_study/blob/426122d484afbff6d23bb26282f454addc7fc098/공부%20프로젝트/VPC와%20중계서버(Bastion)%20구성.md)
+
+* [RDS for Mysql 구성하기](https://github.com/C0deWave/aws_study/blob/master/공부%20프로젝트/RDS%20for%20Mysql%20생성하기.md)
