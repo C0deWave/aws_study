@@ -9,3 +9,5 @@ AWS를 공부한 내용을 정리한 Repo입니다.
 * [VPC와 중계 서버(Bastion) 구성](https://github.com/C0deWave/aws_study/blob/426122d484afbff6d23bb26282f454addc7fc098/공부%20프로젝트/VPC와%20중계서버(Bastion)%20구성.md)
 
 * [RDS for Mysql 구성하기](https://github.com/C0deWave/aws_study/blob/master/공부%20프로젝트/RDS%20for%20Mysql%20생성하기.md)
+
+* [AutoScaling으로 확장성 및 탄력성 구현](https://github.com/C0deWave/aws_study/blob/master/공부%20프로젝트/AutoScaling으로%20확장성%20및%20탄력성%20구현.md)
