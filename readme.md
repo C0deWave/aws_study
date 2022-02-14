@@ -11,3 +11,9 @@ AWS를 공부한 내용을 정리한 Repo입니다.
 * [RDS for Mysql 구성하기](https://github.com/C0deWave/aws_study/blob/master/공부%20프로젝트/RDS%20for%20Mysql%20생성하기.md)
 
 * [AutoScaling으로 확장성 및 탄력성 구현](https://github.com/C0deWave/aws_study/blob/master/공부%20프로젝트/AutoScaling으로%20확장성%20및%20탄력성%20구현.md)
+
+--------
+
+인프라 관련 용어
+
+* [Iaas Paas Saas에 대해](https://github.com/C0deWave/aws_study/blob/master/이론/IaasPaasSaas.md)
