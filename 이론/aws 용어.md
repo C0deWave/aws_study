@@ -6,6 +6,21 @@
 
     컴퓨팅 용량을 제공해주는 서비스이다. 다양한 사양이 준비되어 있고 자유롭게 소프트웨어를 설치하고 시스템을 구축할 수 있으며 이미 세팅된 서버를 사용하는 것도 가능하다.
 
+### **Amazon ECS: Amazon Elastic Container Service**
+
+    클러스터에서 도커를 이용한 컨테이너를 손쉽게 실행, 중지 및 관리할 수 있게 하는 컨테이너 관리 서비스입니다.
+
+### **Amazon ECR: Amazon Elastic Container Registry**
+
+    AWS 관리형 컨테이너 이미지 레지스트리 서비스입니다. Amazon ECR은 AWS IAM을 사용하여 리소스 기반 권한을 가진 프라이빗 리포지토리를 지원합니다.
+
+### **Amazon EKS: Amazon Elastic Kubernetes Service**
+
+    Amazon EKS는 자체 Kubernetes 제어 영역이나 작업자 노드를 설치 및 운영할 필요 없이 AWS에서 Kubernetes를 손쉽게 실행할 수 있도록 지원하는 관리형 서비스
+
+### **Amazon Lightsail**
+
+    아마존(Amazon)에서 제공하고 있는 가상사설서버(VPS, Virtual Private Server) 서비스이다. Amazon EC2와 비슷한 VPS 서비스이며 EC2에 비해 저사양 인스턴스를 제공하고 비교적 가격이 저렴하다. 개인 블로그 운영에 많이 사용된다.
 ### **Amazon S3: Amazon Simple Storage Service**
 
     아마존에서 제공해주는 오브젝트 스토리지 서비스이다. 웹 서버 및 파일 서버용 파일을 보관하는 장소(스토리지)로 사용할 수 있다. 파일 크기는 최대 5TB이며 전체 용량의 제한은 없다.
